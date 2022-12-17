@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-bakeryv1/static/css/main.8685a8be.css",
+    "main.js": "/portfolio-bakeryv1/static/js/main.d03f77fd.js",
+    "static/media/bakeryv1_main.png": "/portfolio-bakeryv1/static/media/bakeryv1_main.ce5af6cc3fe7e3fa2929.png",
+    "static/media/bakeryv1_cart.png": "/portfolio-bakeryv1/static/media/bakeryv1_cart.cd520f62fb5d71aeb954.png",
+    "static/media/bakeryv1_map_code.png": "/portfolio-bakeryv1/static/media/bakeryv1_map_code.5b5418663788da821146.png",
+    "static/media/bakeryv1_aggregation_states_code.png": "/portfolio-bakeryv1/static/media/bakeryv1_aggregation_states_code.3686c51c020af0cefeb4.png",
+    "index.html": "/portfolio-bakeryv1/index.html",
+    "main.8685a8be.css.map": "/portfolio-bakeryv1/static/css/main.8685a8be.css.map",
+    "main.d03f77fd.js.map": "/portfolio-bakeryv1/static/js/main.d03f77fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8685a8be.css",
+    "static/js/main.d03f77fd.js"
+  ]
+}
